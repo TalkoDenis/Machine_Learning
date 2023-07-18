@@ -18,7 +18,7 @@
 
 Метод опорных векторов (Support Vector Machines, SVM)
 
-Решающие деревья (Decision Trees) [Теория тут](https://github.com/TalkoDenis/Machine_Learning/tree/main/Decision_trees_theory) и [Практика тут](https://github.com/TalkoDenis/Machine_Learning/tree/main/Decision_trees_theory)
+Решающие деревья (Decision Trees) [Теория тут](https://github.com/TalkoDenis/Machine_Learning/tree/main/Decision_trees_theory), [продолжение тут](https://github.com/TalkoDenis/Machine_Learning/tree/main/Decision_trees_theory) и [Практика тут](https://github.com/TalkoDenis/Machine_Learning/tree/main/Decision_trees_theory)
 
 Случайный лес (Random Forests)
 
